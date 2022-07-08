@@ -9,7 +9,7 @@ Homework and laboratories of the [Network Dynamics and Learning](https://didatti
 This homework deals with connectivity, network flows and user equilibria in traffic networks applied to the LA highway network.
 ## Homework 2:
 Study how the model an opinion dynamics and convergence to consensus. Markov chains are also used to simulate the movement of particles in a network.
-## Homework3 3:
+## Homework 3:
  During the fall of 2009 there was a large pandemic of the H1N1-virus, commonly known as the swine-flu. 
 During this pandemic it is estimated that about 1.5 million people in Sweden were infected. 
 As an attempt to stop the pandemic and reduce excess mortality the government issued a vaccination program beginning in week 40 of 2009. 
