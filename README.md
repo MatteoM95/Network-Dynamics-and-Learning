@@ -1,4 +1,4 @@
-# Network-Dynamics-and-Learning
+# Network Dynamics and Learning
 
 ![preview](Lab/preview.png)
 
